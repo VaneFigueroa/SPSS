@@ -1,5 +1,5 @@
 # Validación de instrumento 
-## CATPCA: Análisis de componentes principales no lineales para datos categóricos 
+## Análisis de componentes principales no lineales para datos categóricos 
  
  [Ver Repositorio del proyecto](https://github.com/VaneFigueroa/spss.git)
  
