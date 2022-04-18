@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# SPSS
+# Validación de instrumento 
+ ## CATPCA: Análisis de componentes principales no lineales para datos categóricos 
+ 
+ [Ver Repositorio del proyecto](https://github.com/VaneFigueroa/spss.git)
+ 
+ 
+Se comprueba la validación del instrumento elaborado por la Universidad de las Fuerzas Armadas del Ecuador con el fin de evaluar la pertinencia de un programa académico que ofrece la institución. A partir de los datos obtenidos de la prueba piloto, se realiza análisis de fiabilidad y dimensionalidad con componentes principales no lineales (CATPCA) mediante escalamiento óptimo. 
 
-You can use the [editor on GitHub](https://github.com/VaneFigueroa/spss/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Los ítems del instrumento están medidos en la escala de Likert de 1 a 5, es decir trabajamos con varaibles cualitativas ordinales. Se plantean 4 bloques/constructos para evaluar el conocimiento del modelo académico. 
+ 
+Para el análisis empleamos componentes principales no lineales, es una alternativa al análisis factorial cuando tenemos variables ordinales y la cantidad de ítems (28) no garantiza la convergencia en la ley de probalidad. Por lo tanto, se obtiene un alpha de Cronbach a partir de la matriz de correlación de Spearman (para datos cualitativos). Mediante el análisis de dimensionalidad, para evaluar  la relevancia de los ítems  y definir bloques homogéneos (clúster) que nos permita desplegar un diseño muestral. Con el análisis de fiabilidad examinamos consistencia interna.  Estos dos análisis son los que desarrollan en este trabajo con SPSS, pero cabe aclarar que es necesario realizar análisis de validez para evaluar la capacidad de replicabilidad (no se encuentra disponible en este software, pero puede realizar en R). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VaneFigueroa/spss/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Inicio](https://vanefigueroa.github.io/Portwebsite.github.io/)
