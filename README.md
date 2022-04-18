@@ -2,7 +2,7 @@
 # Validación de instrumento 
  ## CATPCA: Análisis de componentes principales no lineales para datos categóricos 
  
- [Ver Repositorio del proyecto]()
+ [Ver Repositorio del proyecto](https://github.com/VaneFigueroa/spss.git)
  
  
 Se comprueba la validación del instrumento elaborado por la Universidad de las Fuerzas Armadas del Ecuador con el fin de evaluar la pertinencia de un programa académico que ofrece la institución. A partir de los datos obtenidos de la prueba piloto, se realiza análisis de fiabilidad y dimensionalidad con componentes principales no lineales (CATPCA) mediante escalamiento óptimo. 
